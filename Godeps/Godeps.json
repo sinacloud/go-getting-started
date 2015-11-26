@@ -1,0 +1,28 @@
+{
+	"ImportPath": "github.com/sinacloud/go-getting-started",
+	"GoVersion": "go1.4.2",
+	"Deps": [
+		{
+			"ImportPath": "github.com/gin-gonic/gin",
+			"Comment": "v1.0rc1-148-g52fcc5d",
+			"Rev": "52fcc5dbf6e94df33ad313858fb94b713e9d1b4a"
+		},
+		{
+			"ImportPath": "github.com/manucorporat/sse",
+			"Rev": "fe6ea2c8e398672518ef204bf0fbd9af858d0e15"
+		},
+		{
+			"ImportPath": "github.com/mattn/go-colorable",
+			"Rev": "51a7e7a8b1665b25ca173debdc8d52d493348f15"
+		},
+		{
+			"ImportPath": "golang.org/x/net/context",
+			"Rev": "c764672d0ee39ffd83cfcb375804d3181302b62b"
+		},
+		{
+			"ImportPath": "gopkg.in/bluesuncorp/validator.v5",
+			"Comment": "v5.12",
+			"Rev": "d5acf1dac43705f8bfbb71d878e290e2bed3950b"
+		}
+	]
+}
