@@ -25,4 +25,4 @@ $ git push sinacloud master:1
 
 ## 相关文档
 
-- [Go应用部署指南](http://www.sinacloud.com/doc/sc2/go-getting-started.html)
+- [Go应用部署指南](http://www.sinacloud.com/doc/sae/docker/go-getting-started.html)
