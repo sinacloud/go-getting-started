@@ -18,6 +18,11 @@
 			"Rev": "52fcc5dbf6e94df33ad313858fb94b713e9d1b4a"
 		},
 		{
+			"ImportPath": "github.com/go-sql-driver/mysql",
+			"Comment": "v1.2-108-g66b7d5c",
+			"Rev": "66b7d5c4956096efd4c945494d64ad73f1d9ec39"
+		},
+		{
 			"ImportPath": "github.com/manucorporat/sse",
 			"Rev": "fe6ea2c8e398672518ef204bf0fbd9af858d0e15"
 		},
