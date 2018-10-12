@@ -16,6 +16,7 @@ func main() {
 
 	r := gin.Default()
 	r.StaticFile("/favicon.ico", "./static/favicon.ico")
+	r.Static("/files", "./files")
 	r.LoadHTMLGlob("templates/*.tmpl.html")
 	r.GET("/", func(c *gin.Context) {
 		c.String(http.StatusOK, "Hello, World")
