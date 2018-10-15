@@ -1,6 +1,6 @@
 {
 	"ImportPath": "github.com/sinacloud/go-getting-started",
-	"GoVersion": "go1.6",
+	"GoVersion": "go1.10",
 	"Deps": [
 		{
 			"ImportPath": "github.com/gin-gonic/gin",
